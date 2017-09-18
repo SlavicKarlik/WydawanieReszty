@@ -1,0 +1,2 @@
+# WydawanieReszty
+Wydawanie reszty
